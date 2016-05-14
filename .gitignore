@@ -1,2 +1,4 @@
 .DS_Store
 superlists/db.sqlite3
+superlists/superlists/__pycache__
+*.pyc
